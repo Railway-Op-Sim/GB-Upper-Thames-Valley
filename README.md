@@ -1,7 +1,7 @@
 # Upper Thames Valley
 This simulation covers the rail network between Tilehurst to the west of Reading, Swindon and Oxford within the UK.
 
-![Image of Current State of Map](Images/image_name.bmp)
+![Image of Current State of Map](Images/Upper_Thames_Valley.bmp)
 
 ## Current Status
 
